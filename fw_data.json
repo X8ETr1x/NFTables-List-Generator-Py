@@ -1,0 +1,12 @@
+{
+  "config": {
+    "nftables_config_dir": "/etc/nftables.d",
+    "output_dir": "/etc/nftables.d/lists"
+  },
+  "lists": {
+    "category_1": [
+      "https://example.com/list1.txt",
+      "https://example.com/list2.txt"
+    ]
+  }
+}
